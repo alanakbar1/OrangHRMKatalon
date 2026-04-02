@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC010_User_Verfikasi_komponen_Time_at_Work</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f19f61c-dc94-42e7-96d5-120c111a5bdd</testCaseGuid>
+</TestCaseEntity>

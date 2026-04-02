@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC011_User_Verifikasi_Name_profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>258372d4-f8c7-4b27-9164-d0e941fc445c</testCaseGuid>
+</TestCaseEntity>

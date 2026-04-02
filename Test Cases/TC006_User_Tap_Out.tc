@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_User_Tap_Out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>472417a3-6b20-4b15-962e-ec9d8ca60c07</testCaseGuid>
+</TestCaseEntity>

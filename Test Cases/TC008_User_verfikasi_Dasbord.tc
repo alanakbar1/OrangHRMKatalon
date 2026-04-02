@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC008_User_verfikasi_Dasbord</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>787be8e2-0f99-430c-a63f-0a58388e12c4</testCaseGuid>
+</TestCaseEntity>

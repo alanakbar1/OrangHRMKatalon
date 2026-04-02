@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_User_Input_Personal_Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8091a5c4-d7ff-445f-b650-b7383b5e8802</testCaseGuid>
+</TestCaseEntity>

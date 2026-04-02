@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_User_Verfikasi_komponen_My_Actions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d62e20d-56eb-4ea8-aaae-bf4be3842c1b</testCaseGuid>
+</TestCaseEntity>

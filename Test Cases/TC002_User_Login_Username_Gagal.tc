@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_User_Login_Username_Gagal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bca8fe44-fa4d-4dab-b19d-9f8fb56bc198</testCaseGuid>
+</TestCaseEntity>

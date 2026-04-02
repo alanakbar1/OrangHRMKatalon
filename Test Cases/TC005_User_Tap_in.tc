@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_User_Tap_in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>404dbf07-1671-4a8c-9241-2c44fa7f923a</testCaseGuid>
+</TestCaseEntity>
