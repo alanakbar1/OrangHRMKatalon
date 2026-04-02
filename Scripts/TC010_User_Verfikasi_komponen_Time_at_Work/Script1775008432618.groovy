@@ -19,6 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Test Cases/TC001_User_Login_Sukses'), null)
 
-WebUI.click(findTestObject('Object Repository/Page Dasbord/i_Today_oxd-icon bi-stopwatch'))
+WebUI.click(findTestObject('Object Repository/Page Dashboard/i_Today_oxd-icon bi-stopwatch'))
 
 WebUI.closeBrowser()

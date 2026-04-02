@@ -19,6 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Test Cases/TC001_User_Login_Sukses'), null)
 
-WebUI.click(findTestObject('Object Repository/Page Dasbord/div_(1) Pending Self Review'))
+WebUI.click(findTestObject('Object Repository/Page Dashboard/div_(1) Pending Self Review'))
 
 WebUI.closeBrowser()

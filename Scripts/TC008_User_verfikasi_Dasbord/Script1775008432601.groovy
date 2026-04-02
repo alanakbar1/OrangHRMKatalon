@@ -19,6 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Test Cases/TC001_User_Login_Sukses'),null)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page Dasbord/h6_Dashboard'), 2)
+WebUI.verifyElementText(findTestObject('Object Repository/Page Dashboard/h6_Dashboard'), 'Dashboard')
 
 WebUI.closeBrowser()
